@@ -12,7 +12,7 @@ using the provided program `wabbit.py`.  For example:
    $ python3 wabbit.py prog1.wb
    ... see the output ...
 
-The `wabbit.py`program is running each program in an interpreter
+The `wabbit.py` program is running each program in an interpreter
 which is sort of similar to the compiler theis projcet implements
 except that everything runs a lot slower.
 
