@@ -1,0 +1,22 @@
+svpooni@Subramaniyams-MacBook-Pro SillyWabbit % ls
+README.rst	prog1.wb	prog2.wb	prog3.wb	wabbit.py
+svpooni@Subramaniyams-MacBook-Pro SillyWabbit % python3 wabbit.py prog1.wb
+Hello
+svpooni@Subramaniyams-MacBook-Pro SillyWabbit % python3 wabbit.py prog2.wb
+60.0
+36.0
+21.599999999999998
+12.959999999999999
+7.775999999999999
+4.6655999999999995
+2.7993599999999996
+1.6796159999999998
+1.0077695999999998
+0.6046617599999998
+svpooni@Subramaniyams-MacBook-Pro SillyWabbit % python3 wabbit.py prog3.wb
+0
+1
+svpooni@Subramaniyams-MacBook-Pro SillyWabbit % python3 wabbit.py prog3.wb
+0
+1
+
