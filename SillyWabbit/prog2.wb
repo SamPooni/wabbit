@@ -25,13 +25,6 @@ func main() int {
 /* Run the above program using python wabbit.py prog2.wb.  Make sure
    you understand the output. Try changing some of the initial constants */
 
-/* Challenge.  Modify the program to solve the Tooth Fairy problem.
-   Upon losing their first tooth, the tooth fairy offers the child a
-   choice.  They can either receive $10 for every tooth lost or if they
-   are willing to accept a single penny for the first tooth, the
-   tooth fairy will double the amount given for each subsequent tooth.
-   Which is a better deal?  A child typically has 20 baby teeth.  */
-
 
 
 
