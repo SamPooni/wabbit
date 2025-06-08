@@ -1,8 +1,7 @@
 Wabbit Language Specification
 -----------------------------
 
-This document serves as a reference to the Wabbit language which you will
-be compiling.
+This document serves as a reference to the Wabbit language.
 
 1. Lexical Conventions and Syntax
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
