@@ -24,8 +24,3 @@ func main() int {
 
 /* Run the above program using python wabbit.py prog3.wb. Make
    sure the output is correct (according to the comments) */
-
-/* Challenge.  Modify the program to print all of the prime numbers less
-   than 100 */
-
-
