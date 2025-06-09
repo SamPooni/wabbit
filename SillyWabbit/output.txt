@@ -16,7 +16,3 @@ svpooni@Subramaniyams-MacBook-Pro SillyWabbit % python3 wabbit.py prog2.wb
 svpooni@Subramaniyams-MacBook-Pro SillyWabbit % python3 wabbit.py prog3.wb
 0
 1
-svpooni@Subramaniyams-MacBook-Pro SillyWabbit % python3 wabbit.py prog3.wb
-0
-1
-
