@@ -13,7 +13,7 @@ using the provided program `wabbit.py`.  For example:
    ... see the output ...
 
 The `wabbit.py` program is running each program in an interpreter
-which is sort of similar to the compiler theis projcet implements
+which is sort of similar to the compiler this projcet implements
 except that everything runs a lot slower.
 
 
